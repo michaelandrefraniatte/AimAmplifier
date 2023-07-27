@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimAmplifier4FPS", "AimAmplifier4FPS\AimAmplifier4FPS.csproj", "{5F7CAB1F-718F-4261-97E0-28D8A65DB13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7CAB1F-718F-4261-97E0-28D8A65DB13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7CAB1F-718F-4261-97E0-28D8A65DB13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7CAB1F-718F-4261-97E0-28D8A65DB13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7CAB1F-718F-4261-97E0-28D8A65DB13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A59687-C2B0-4141-B6E3-E06ED4731288}
+	EndGlobalSection
+EndGlobal
