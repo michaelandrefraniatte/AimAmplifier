@@ -1,3 +1,1 @@
-﻿https://michaelandrefraniatte.github.io/AimAmplifier4FPSOfficial  
-  
-https://github.com/michaelandrefraniatte  
+﻿https://github.com/michaelandrefraniatte
