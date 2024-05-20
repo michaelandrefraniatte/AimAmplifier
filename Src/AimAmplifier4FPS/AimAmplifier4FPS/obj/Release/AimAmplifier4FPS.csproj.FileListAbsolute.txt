@@ -33,3 +33,14 @@ C:\Users\micha\Documents\github\AimAmplifier4FPSOfficial\Src\AimAmplifier4FPS\Ai
 C:\Users\micha\Documents\github\AimAmplifier4FPSOfficial\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.csproj.CopyComplete
 C:\Users\micha\Documents\github\AimAmplifier4FPSOfficial\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.exe
 C:\Users\micha\Documents\github\AimAmplifier4FPSOfficial\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.pdb
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\bin\Release\AimAmplifier4FPS.exe.config
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\bin\Release\AimAmplifier4FPS.exe
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\bin\Release\AimAmplifier4FPS.pdb
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.Form1.resources
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.Properties.Resources.resources
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmpli.31AA42B6.Up2Date
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.exe
+C:\Users\micha\Documents\github\AimAmplifier\Src\AimAmplifier4FPS\AimAmplifier4FPS\obj\Release\AimAmplifier4FPS.pdb
